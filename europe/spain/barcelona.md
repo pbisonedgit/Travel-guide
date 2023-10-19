@@ -1,5 +1,7 @@
 # Barcelona
 
+Very great buildings and landscapes.
+
 Barcelona has wonderful cultural landscape. For example, Sagrada Família is one of the most
 famous building in the world which is magnificent but still under construction.
 
