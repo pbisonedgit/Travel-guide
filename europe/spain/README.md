@@ -1,2 +1,3 @@
-# SPAIN
- - [BARCELONA](./Barcelona.md)
+# Spain
+  - [Canary Islands](canary_islands.md)
+  - [Barcelona](barcelona.md)
